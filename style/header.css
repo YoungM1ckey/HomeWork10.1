@@ -147,6 +147,7 @@
 .sub-list-item {
   position: absolute;
   font-size: 16px;
+  line-height: 20px;
   font-weight: 400;
   top: 100%;
   padding-top: 12px;
@@ -174,6 +175,7 @@
   color: #ffffff;
   font-weight: 700;
   font-size: 16px;
+  line-height: 20px;
 }
 
 .sub-list-item-level2:hover .sub-level-2 .arrow-right-sublist {
@@ -184,7 +186,6 @@
 }
 
 .sub-list {
-  height: 35px;
   text-decoration: none;
   color: #3d3d3d;
   padding: 7px 0 8px 14px;
@@ -221,6 +222,7 @@
   color: #ffffff;
   font-weight: 700;
   font-size: 16px;
+  line-height: 20px;
 }
 
 .arrow-left-sublist {
@@ -245,5 +247,6 @@
   background-color: #1a712a;
   color: #ffffff;
   font-weight: 700;
+  line-height: 20px;
   font-size: 16px;
 }
