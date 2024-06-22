@@ -140,8 +140,6 @@
   display: flex;
 }
 
-
-
 .navigation-item-list:hover > .sub-list-item {
   display: flex;
 }
@@ -194,7 +192,6 @@
 }
 
 .sub-list-item-level2 {
-  /* display: flex; */
   justify-content: space-between;
 }
 
